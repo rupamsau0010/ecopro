@@ -1,0 +1,1 @@
+The is my First Trial of making Django as a professional backend Developer with an e-commerce Application(Website).
